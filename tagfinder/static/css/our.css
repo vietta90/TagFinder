@@ -1,0 +1,72 @@
+body{
+  font-family: Georgia;
+  background-color: #EEE2DC;
+}
+
+.header{
+  font-size: 36px;
+  text-align: center;
+  background-color: #EEE2DC;
+  color: #AC3B61;
+}
+
+.main{
+  float: left;
+  width: 45%;
+  height: 540px;
+  margin-right: 5%;
+  background-color: #EEE2DC;
+  color: #123C69;
+}
+.main label input{
+  text-align: center;
+  font-size: 20px;
+  margin-left: 34%;
+}
+
+.main form,p{
+  text-align: center;
+  font-size: 20px;
+}
+
+.main h4{
+  margin-right: 17%;
+  text-align: left;
+  margin-left: 20%;
+}
+
+.related_container{
+  margin-right: 5%;
+}
+
+.related_container p{
+  width: 40%;
+  float: left;
+  height: 400px;
+  text-align: left;
+  font-size: 20px;
+  background-color: #EEE2DC;
+  color: #123C69;
+}
+.related_container .related a{
+  margin-left: 15px;
+}
+
+.related{
+  height: 33%;
+}
+
+#rr1{
+  visibility: hidden;
+  font-size: 15px;
+}
+
+#rr2{
+  visibility: hidden;
+  font-size: 15px;
+}
+
+#rr3{
+  visibility: hidden;
+  font-size: 15px;
+}
